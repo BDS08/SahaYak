@@ -4,5 +4,7 @@
 <h1>What Is SahaYak</h1>
 <p align="left"> Sahayak is an online platform which helps students to communicate with another student for their basic needs of materials, instructions, knowledge etc. </p>
 <p align="left"> A student with lack of awareness needs a helping hand and this platform decreases the communication gap of any student directly communicating with another student and they can share their problems to them. Sahayak opens a way for any student to get help and to reach their goal of success.</p>
+<h1>How it Works</h1>
+
 
 
