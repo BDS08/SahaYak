@@ -8,5 +8,13 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76803084/180454721-fa7fda7c-2c53-4204-9879-013672b54701.png" alt="Sublime's custom image"/>
 </p>
+<p align="left"> Sahayak is an online helping platform for any student, it can be used just by going into
+Sahayak's website and clicking on the service option then you'll be provided there with two other
+options: "upload items" and "get items". If you have any items regarding academics which could
+be useful for any fellow student, then you can upload your items with item's details by clicking
+on upload items and if you want to get or you're in need of any item, you can click on get items
+and there you can find many items regarding academics of which you can simply click on any
+specific item you want and you can get it. Sahayak works accordingly which would be beneficial
+for many students.</p>
 
 
