@@ -16,5 +16,8 @@ on upload items and if you want to get or you're in need of any item, you can cl
 and there you can find many items regarding academics of which you can simply click on any
 specific item you want and you can get it. Sahayak works accordingly which would be beneficial
 for many students.</p>
-
-
+<h3 align="left">Website:</h3>
+<p align="left">
+<a href="https://bds08.github.io/SahaYak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Website-in-alt.svg" alt="badal-singh-73553622a/" height="30" width="40" /></a>
+<a href="https://fb.com/bdk.singh.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bdk.singh.1" height="30" width="40" /></a>
+</p>
