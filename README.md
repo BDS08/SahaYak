@@ -19,8 +19,8 @@ for many students.</p>
 <h3 align="left">Website:</h3>
 <p align="left">
 <a href="https://bds08.github.io/SahaYak/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76803084/180795796-bbfa8d5f-b563-4070-a60f-54a05bd79a25.png" alt="Website" height="35" width="35" /></a>
-<a href="https://fb.com/bdk.singh.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" ![Browser](https://user-images.githubusercontent.com/76803084/180795600-5e512c40-6076-4752-b0aa-3f5762bf1885.png)
-alt="bdk.singh.1" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+alt="Youtube" height="30" width="40" /></a>
 </p>
 
 
