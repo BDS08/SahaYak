@@ -27,8 +27,11 @@ alt="Youtube" height="38" width="38" /></a>
 <h3 align="left">Tech Stack Use:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp; </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    </p>
 
-<h3 align="left">Website view</h3>
+<h3 align="left">Website View</h3>
 <img src="https://user-images.githubusercontent.com/76803084/180821830-b51d179f-ece0-405c-8829-a0d056f16a73.png" alt="Sublime's custom image"/>
+
+<h3 align="left">Mobile View view</h3>
+<img src="https://user-images.githubusercontent.com/76803084/180829475-86a5c51d-17f7-434e-82d8-6d6b9ae6848d.png" alt="Sublime's custom image"/>
 
 
 # How to contribute?
