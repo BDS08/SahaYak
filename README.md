@@ -29,7 +29,7 @@ alt="Youtube" height="38" width="38" /></a>
 
 
 <h2>Thanks to</h2> 
-- **[W3School](https://www.w3schools.com/)** 
-- **[Freepik](https://www.freepik.com/)** 
-- **[YouTube](https://www.youtube.com/)** 
+ **[W3School](https://www.w3schools.com/)** <br>
+ **[Freepik](https://www.freepik.com/)** 
+ **[YouTube](https://www.youtube.com/)** 
 
