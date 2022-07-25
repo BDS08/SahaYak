@@ -33,6 +33,6 @@ https://opensource.guide/how-to-contribute/
 
 
 # Thanks to 
-- **[Hugo](https://gohugo.io/)** - The world’s fastest framework for building websites
-- **[Themefisher](https://github.com/themefisher/)** - Airspace Hugo Theme
-- **[Netflify](https://www.netlify.com/)** - Netlify builds, deploys and hosts front-end
+- **[W3Schools]** - 
+- **[Freepik]** -
+- **[Netflify]** - 
