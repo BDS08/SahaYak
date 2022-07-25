@@ -28,8 +28,11 @@ alt="Youtube" height="38" width="38" /></a>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp; </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    </p>
 
 
-#Thanks to
- **[W3School](https://www.w3schools.com/)**
- **[Freepik](https://www.freepik.com/)** 
- **[YouTube](https://www.youtube.com/)** 
+# How to contribute?
+https://opensource.guide/how-to-contribute/
 
+
+# Thanks to 
+- **[Hugo](https://gohugo.io/)** - The world’s fastest framework for building websites
+- **[Themefisher](https://github.com/themefisher/)** - Airspace Hugo Theme
+- **[Netflify](https://www.netlify.com/)** - Netlify builds, deploys and hosts front-end
