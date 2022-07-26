@@ -41,4 +41,4 @@ https://opensource.guide/how-to-contribute/
 # Thanks to 
 - **[W3Schools]** 
 - **[Freepik]** 
-- **[Netflify]** 
+- **[YouTube]** 
