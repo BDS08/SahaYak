@@ -110,7 +110,7 @@ const reviews = [
     img:
       "Images/reviews2.png",
     text:
-      "Lorem Ipsum is simply dummy text the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      "Lorem Ipsum help me alot, text the when an unknown printer took a galley find me right product in good prize make a type specimen book."
   },
   {
     id: 3,
@@ -119,7 +119,7 @@ const reviews = [
     img:
       "Images/reviews4.png",
     text:
-      "Lorem Ipsum is simply dummy text the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.."
+      "Lorem Ipsum is simply dummy text the 1500s, due to printer took osm website which help me to find product in very less prize specimen book.."
   },
   {
     id: 4,
@@ -128,7 +128,7 @@ const reviews = [
     img:
       "Images/reviews1.png",
     text:
-      "Lorem Ipsum is simply dummy text the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+      "Real Lorem Ipsum is simply text the 1500s, it will help me to find the galley of type and scrambled it to make a type specimen book. "
   }
 ];
 
