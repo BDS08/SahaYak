@@ -101,7 +101,7 @@ const reviews = [
     img:
       "Images/reviews3.png",
     text:
-      "I'm baby meggings goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring..."
+      "Lorem Ipsum is simply dummy text the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
   },
   {
     id: 2,
