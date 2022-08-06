@@ -110,7 +110,7 @@ const reviews = [
     img:
       "Images/reviews2.png",
     text:
-      "Helvetica artisan kinfolk thundercats glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal."
+      "Lorem Ipsum is simply dummy text the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
   },
   {
     id: 3,
@@ -119,7 +119,7 @@ const reviews = [
     img:
       "Images/reviews4.png",
     text:
-      "Sriracha literally flexitarian irony tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag."
+      "Lorem Ipsum is simply dummy text the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.."
   },
   {
     id: 4,
@@ -128,7 +128,7 @@ const reviews = [
     img:
       "Images/reviews1.png",
     text:
-      "Edison bulb put a bird on axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. "
+      "Lorem Ipsum is simply dummy text the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
   }
 ];
 
