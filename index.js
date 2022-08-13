@@ -61,9 +61,9 @@ window.onscroll = function () {
   }
   
   
-  //====== counter on scroll ======
-  var number = 0;
-  var oTop = $('#counter').offset().top - window.innerHeight;
+ //====== counter on scroll ======
+    var number = 0;
+    var oTop = $('#counter').offset().top - window.innerHeight;
     if (number == 0 && $(window).scrollTop() > oTop) {
         $('.counter-value').each(function () {
             var $this = $(this),
@@ -84,9 +84,10 @@ window.onscroll = function () {
                     complete: function () {
                         $this.text(this.countNum);
                     }
-   });
-});
-    
+                });
+        });
+    }
+}
 
  //====== Reviews Section ======
 const reviews = [
